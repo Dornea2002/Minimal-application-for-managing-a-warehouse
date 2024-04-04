@@ -1,0 +1,1 @@
+# Minimal-application-for-managing-a-warehouse
